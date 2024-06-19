@@ -20,6 +20,7 @@ import tkinter as tk
 #entrada de texto
 #entrada =tk.Entry(root)
 #entrada.pack()
+
 #muestro la ventana  , siempre debe ir al final
 #root.mainloop()
 
